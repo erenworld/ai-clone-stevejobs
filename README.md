@@ -2,10 +2,6 @@
 
 Ai-Steve-Jobs allows users to pose questions and receive audio responses, echoing the iconic voice of Steve Jobs himself.
 
-**[WATCH THE DEMO HERE](https://www.youtube.com/watch?v=rWgkzRtGTCo)** <=
-
-![LG UltraFine](https://github.com/amiracle1337/plant-health-detection/assets/122039464/de469684-7dbf-4ee5-8e42-7c79c50139d6)
-
 ## How it Works:
 1. **User Interaction**: Initiate a conversation by posing a question in the chat interface.
 2. **OpenAI Integration**: The question is promptly relayed to a pre-configured OpenAI model.
